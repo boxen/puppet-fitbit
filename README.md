@@ -1,4 +1,7 @@
-# Puppet fitbit for Boxen
+# Fitbit Puppet Module for Boxen
 
-FIXME: update me bro
+## Usage
 
+```puppet
+include fitbit
+```
