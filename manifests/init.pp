@@ -1,3 +1,8 @@
+# Public: Install Fitbit sync software.
+#
+# Examples
+#
+#   include fitbit
 class fitbit {
   package { 'Fitbit':
     provider => 'pkgdmg',
