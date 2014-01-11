@@ -1,4 +1,6 @@
 ---
+before_install:
+  - gem update --system
 script: "./script/cibuild"
 gemfile: "this/does/not/exist"
 rvm:
